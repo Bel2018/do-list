@@ -1,0 +1,31 @@
+body, html{
+height: 100%;
+background: lightgray;
+}
+
+ul{
+  width: 40%;
+ text-align: center;
+  float: left;
+}
+.header{
+  text-align: center;
+  background: orange;
+  padding: 20px;
+  color: white;
+}
+
+li{
+  width: 200px;
+  list-style: none;
+  font-size: 120%;
+  background: blue;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+}
+
+input span {
+  margin-left: 10px;
+
+}
